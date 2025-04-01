@@ -25,10 +25,10 @@ Imagine discovering you and your partner were at the same coffee shop years ago,
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[your-username]/near_miss_finder.git
+   git clone https://github.com/paultekofficial/near_miss_finder.git
    cd near_miss_finder
 
-2. **Set Up a Virtual Environment (recommended):**
+2. **Set Up a Virtual Environment:**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
